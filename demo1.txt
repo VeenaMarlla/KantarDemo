@@ -1,3 +1,5 @@
 demo1
 
+dev1 changes - conflict demo
+
 dev2 changes - merge conflict demo
