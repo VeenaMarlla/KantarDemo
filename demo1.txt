@@ -1,3 +1,9 @@
 demo1
 
+
 dev2 changes - conflict demo
+
+dev1 changes - conflict demo
+
+
+
